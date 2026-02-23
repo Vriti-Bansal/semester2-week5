@@ -1,4 +1,4 @@
-// Week 5, session 1
+// Week 5, session 1#
 
 /*
  * Boolean Logic examples in C
