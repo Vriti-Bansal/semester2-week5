@@ -10,5 +10,19 @@ int main(void){
  */
 
 
+    int num;
+    int sum = 0;
+
+    do{
+        printf("Enter an integer (0 to stop): ");
+        scanf("%d", &num);
+
+        sum = sum + num;
+
+    } while(num != 0);
+
+    printf("Sum = %d\n", sum);
+
+
     return 0;
 }
